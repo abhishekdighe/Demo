@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Knowledge is Power"
 
-myVar=13
+myVar=15
 echo $myVar
 readonly myVar
 export myVar1="HELLO WORLD!!"
