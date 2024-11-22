@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Knowledge is power"
+echo "Knowledge is Power"
 
 myVar=10
 echo $myVar
